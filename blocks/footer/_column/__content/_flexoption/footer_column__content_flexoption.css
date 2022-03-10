@@ -1,0 +1,8 @@
+.footer_column__content_flexoption {
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    min-height: 250px;
+    width: 50%;
+}
+

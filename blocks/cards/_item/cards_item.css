@@ -1,0 +1,6 @@
+.cards_item {
+  border: solid 1px lightsalmon;
+  margin: 60px 0 0 0;
+  text-align: center;
+  max-width: 240px;
+}

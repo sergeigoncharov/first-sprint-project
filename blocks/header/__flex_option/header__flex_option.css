@@ -1,0 +1,4 @@
+.header__flex_option {
+	display: flex;
+	justify-content: space-between;
+}
