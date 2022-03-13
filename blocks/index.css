@@ -1,27 +1,20 @@
-@import url(./body/__margin/body__margin.css);
-
+@import url(../vendor/normalize.css);
+@import url(../vendor/vendor.css);
 @import url(./page/page.css);
-
 @import url(./header/header.css);
-@import url(./header/__flex_option/header__flex_option.css);
 @import url(./logo/__place/_header/logo__place_header.css);
 @import url(./header/_title/title.css);
 @import url(./header/__link/header__link.css);
 @import url(./header/_subtitle/header_subtitle.css);
 @import url(./header/_main-illustration/header_main-illustration.css);
 @import url(./header/_square-pic/header_square-pic.css);
-
-
 @import url(./content/content.css);
 @import url(./description/description.css);
 @import url(./two-columns/two-columns.css);
-@import url(./two-columns/__flex-items/two-columns__flex-items.css);
 @import url(./two-columns/_brief/two-columns_brief.css);
 @import url(./two-columns/_main-text/two-columns_main-text.css);
-@import url(./two-columns/_main-text/__margin/two-columns_main-text__margin.css);
-@import url(./two-columns/_main-text/__size/two-columns_main-text__size.css);
-@import url(./two-columns/_main-text/__span/two-columns_main-text__span.css);
-
+@import url(./two-columns/_paragraph/two-columns_paragraph.css);
+@import url(./two-columns/__span-accent/two-columns__span-accent.css);
 @import url(./techniques/techniques.css);
 @import url(./cards/cards.css);
 @import url(./cards/__flex_option/cards__flex_option.css);
@@ -29,39 +22,44 @@
 @import url(./cards/_image/cards_image.css);
 @import url(./cards/_title/cards_title.css);
 @import url(./cards/_description/cards_description.css);
-
 @import url(./video/video.css);
 @import url(./video/_iframes/video_iframes.css);
 @import url(./video/_iframe/video_iframe.css);
-
 @import url(./oakley/oakley.css);
-
+@import url(./feynman/feynman.css);
+@import url(./feynman/_title/feynman_title.css);
+@import url(./feynman/_subtitle/feynman_subtitle.css);
+@import url(./feynman/__link/feynman__link.css);
 @import url(./digits/digits.css);
-
 @import url(./section-title/section-title.css);
 @import url(./section-title/__theme/section_title__theme_dark.css);
 @import url(./section-subtitle/section-subtitle.css);
 @import url(./section-subtitle/__theme/section-subtitle__theme_dark.css);
-
-
+@import url(./khan/khan.css);
+@import url(./khan/__container/khan__container.css);
+@import url(./khan/__author/khan__author.css);
+@import url(./khan/__title/khan__title.css);
+@import url(./khan/__quote/khan__quote.css);
+@import url(./khan/__quote-autor/khan__quote-autor.css);
+@import url(./khan/__quote-autor-subline/khan__quote-autor-subline.css);
+@import url(./khan/__book-container/khan__book-container.css);
+@import url(./khan/__book-pic/khan__book-pic.css);
+@import url(./khan/__book-link/khan__book-link.css);
 @import url(./table/table.css);
 @import url(./table/__flex/table__flex_option.css);
 @import url(./table/__rows/_heading/table__rows_heading.css);
 @import url(./table/__rows/_option/table__rows_option.css);
 @import url(./table/__rows/_text/table__rows_text.css);
-
-
 @import url(./kaufman/kaufman.css);
 @import url(./table/__theme/table__theme_dark.css);
 @import url(./table/__rows/__theme/table__rows__theme_dark.css);
 @import url(./table/__rows/_text/__theme/table__rows_text__theme_dark.css);
 @import url(./table/__rows/_heading/__theme/table__rows_heading__theme_dark.css);
-
+@import url(./kaufman/__triangle/kaufman__triangle.css);
 @import url(./resources/resources.css);
 @import url(./resources/_logo_zone/resources_logo-zone.css);
 @import url(./resources/_logo_zone/__flex_option/resources_logo-zone__flex_option.css);
 @import url(./resources/_logo/resources_logo.css);
-
 @import url(./footer/footer.css);
 @import url(./footer/_column/footer_column.css);
 @import url(./footer/_column/__content/_copyright/footer_column__content_copyright.css);
@@ -75,3 +73,4 @@
 @import url(./logo/__place/_footer/logo__place_footer.css);
 @import url(./footer/_column/__content/_flexoption/footer_column__content_flexoption.css);
 @import url(./footer/_column-link/__decoration/footer_column-link__decoration.css);
+@import url(./rotation/rotation.css);

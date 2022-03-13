@@ -1,6 +1,10 @@
 .cards_item {
-  border: solid 1px lightsalmon;
-  margin: 60px 0 0 0;
+  margin: 60px 100px 0 0;
   text-align: center;
-  max-width: 240px;
+  max-width: 238px;
 }
+
+.cards_item:nth-child(3) {
+  margin-right: 0;
+}
+

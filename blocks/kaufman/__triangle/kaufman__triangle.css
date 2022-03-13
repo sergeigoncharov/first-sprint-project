@@ -1,0 +1,6 @@
+.kaufman__triangle {
+  position: absolute;
+  right: -230px;
+  z-index: 0;
+  animation: rotation linear 20s infinite;
+}

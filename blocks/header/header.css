@@ -4,4 +4,8 @@
     max-height: 756px;
     background: #F2F2F2;
     padding: 0 0 0 0;
+    position: relative;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
 }

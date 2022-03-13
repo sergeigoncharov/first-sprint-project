@@ -3,4 +3,6 @@
     padding-bottom: 90px;
     background-color: black;
     color: white;
+    position: relative;
+    overflow: hidden;
 }
